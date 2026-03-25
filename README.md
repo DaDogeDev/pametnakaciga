@@ -61,5 +61,3 @@ Buduća unapređenja
 ------------------
 
 Planirano je unapređenje sistema korišćenjem ESP32 mikrokontrolera, koji bi omogućio povezivanje na internet, kreiranje web servera i naprednije upravljanje uređajem.
-
-![](esp.png)
