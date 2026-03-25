@@ -1,7 +1,3 @@
-   Pametna Kaciga ![](HangTape.png) ![](1702.png)
-
-![](logo.png)
-
 Pametna Kaciga
 ==============
 
@@ -32,8 +28,6 @@ Glavne komponente
 *   Power bank napajanje
 *   3D štampani delovi (kućište i dekorativne uši)
 
-![](parts.png)
-
 Dizajn
 ------
 
@@ -58,14 +52,10 @@ Kaciga omogućava upravljanje funkcijama putem glasa, bez potrebe za fizičkim i
 
 Vizuelni elementi poput pokretnih „ušiju” i poruka na displeju omogućavaju neverbalnu komunikaciju i izražavanje emocija.
 
-![](demo.png)
-
 Rezultat
 --------
 
 Razvijen je funkcionalan prototip koji uz minimalne resurse uspešno demonstrira ideju pametne kacige. Projekat pokazuje kako kombinacija jednostavnog hardvera i kreativnog pristupa može dovesti do praktičnog rešenja.
-
-![](kaciga.gif)
 
 Buduća unapređenja
 ------------------
